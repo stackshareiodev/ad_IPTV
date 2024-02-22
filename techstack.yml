@@ -1,0 +1,20 @@
+repo_name: stackshareiodev/ad_IPTV
+report_id: 57474a5252e4c18f4a658f2ffc0e9b11
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-20T14:20:41+00:00'
+requested_by: joevess
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/stackshareiodev/ad_IPTV
+  detection_source: Repo Metadata
